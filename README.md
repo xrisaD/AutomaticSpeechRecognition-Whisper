@@ -21,7 +21,7 @@ The results after training for 1500 steps are shown below:
 | ----------- | ----------- |
 | 1e-3      | 109.48      |
 | 1e-5   | 23.97        |
-| 1e-6   | X       |
+| 1e-6   | 24.12       |
 
 So the best model is the model with learning rate = X and can be found here: X
 
