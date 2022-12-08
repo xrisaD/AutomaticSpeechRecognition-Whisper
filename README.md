@@ -23,7 +23,7 @@ The results after training for 1500 steps are shown below:
 | 1e-5   | 23.97        |
 | 1e-6   | 24.12       |
 
-So the best model is the model with learning rate = X and can be found here: X
+So the best model is the model with learning rate = 1e-5 and can be found here: https://huggingface.co/Hoft/whisper-small-swedish-asr
 
 ## The App
 The app is deployed on Huggingface: https://huggingface.co/spaces/Chrysoula/voice_to_text_swedish.
